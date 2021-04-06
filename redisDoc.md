@@ -10,7 +10,7 @@ redis有5大基本类型和3种特殊类型
 
 2. <font color=red>hash</font>
 
-   
+   ![image-20210406160347455.png](redisDoc.assets/image-20210406160347455.png)
 
    使用场景：存储用户信息
 
