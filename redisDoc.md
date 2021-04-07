@@ -14,11 +14,15 @@ redis有5大基本类型和3种特殊类型
 
    使用场景：存储用户信息
 
-3. <font color=red>sets</font>
+3. <font color=red>list</font>
 
-4. <font color=red>sorted sets</font>
+   存储多个有序字符串
 
-5. <font color=red>list</font>
+   ![image-20210406163642729](redisDoc.assets/image-20210406163642729.png)
+
+4. <font color=red>sets</font>
+
+5. <font color=red>sorted sets</font>
 
 3种特殊数据类型：
 
